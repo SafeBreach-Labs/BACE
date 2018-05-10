@@ -1,5 +1,5 @@
 # BACE
-Mapping of Binaries that allows Arbitrary Code Execution
+Mapping of Binaries that allows Arbitrary Code Execution. Check out the [slides](http://www.ikotler.org/BackdooringWithMetadata.pdf) from my talk at [Converge Conference](https://www.convergeconference.org/sessions/backdooring-with-metadata/).
 
 # FAQ
 Q: Who's behind this initiative?  
